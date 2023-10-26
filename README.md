@@ -1,6 +1,5 @@
 
-## Generador de QR básico con la API de google chart
-# Título de proyecto
+# Generador de QR básico con la API de google chart
 
 Generador de QR Básico en el lenguaje PHP, utilizando la API de GOOGLE CHART
 
